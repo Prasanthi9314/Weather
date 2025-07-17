@@ -6,7 +6,7 @@
 // 1. Replace 'YOUR_API_KEY' below with your actual API key
 // 2. Or set it as an environment variable (for production)
 
-const API_KEY = '297b31a7fad9d353613658cc0ed3f4dd'; // Replace with your actual API key
+const API_KEY = 'insert your own key here'; // Replace with your actual API key
 
 async function getWeather() {
     const cityInput = document.getElementById('city');
